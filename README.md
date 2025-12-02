@@ -8,4 +8,3 @@ I will gradually improve this project by:
 Tuning model hyperparameters
 Trying different thresholds for fraud classification
 Adding more detailed analysis and conclusions
-
